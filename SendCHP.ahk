@@ -33,8 +33,4 @@ SendCHP(wParam, lParam) ; http://www.autohotkey.com/board/topic/77796-senddata-s
 		DetectHiddenWindows, %a%
 		SetTitleMatchMode, %b%
 	}
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/master
